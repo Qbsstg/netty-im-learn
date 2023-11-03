@@ -1,0 +1,7 @@
+netty:
+  server:
+    port: 8081
+    host: 127.0.0.1
+spring:
+  main:
+    allow-circular-references: true
